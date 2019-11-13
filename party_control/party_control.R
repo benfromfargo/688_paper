@@ -73,13 +73,18 @@ final_data_long %>%
   ggplot() +
   geom_line(aes(year, number_govs, color = party_control)) +
   scale_color_manual(values = c("Democrat" = "blue", "Republican" = "red")) +
-  theme(legend.title = element_blank()) +
+  scale_x_continuous(breaks = seq(1980, 2016, 4),
+                   labels = as.character(seq(1980, 2016, 4))) +
+  theme(legend.title = element_blank(),
+        plot.caption = element_text(hjust = 0),
+        legend.position = "bottom") +
+  guides(color = guide_legend(ncol = 2, byrow=TRUE)) +
   xlab(NULL) +
   ylab("State governments under unified control") +
-  labs(title = "State governments under unified partisan control", 
+  labs(title = "Number of state governments under unified partisan\ncontrol", 
        subtitle = "1980-2017",
-       caption = "Note: Excludes Nebraska. Sources: Correlates of State Policy Project and National Conference of State Legislatures")
-  
+       caption = "Note: Excludes Nebraska. Sources: Correlates of State Policy Project and National\nConference of State Legislatures")
+ggsave("party_control.pdf", device = cairo_pdf)
 
 
 
