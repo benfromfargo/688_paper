@@ -81,10 +81,8 @@ final_data_long %>%
   guides(color = guide_legend(ncol = 2, byrow=TRUE)) +
   xlab(NULL) +
   ylab("State governments under unified control") +
-  labs(title = "Number of state governments under unified partisan\ncontrol", 
-       subtitle = "1980-2017",
-       caption = "Note: Excludes Nebraska. Sources: Correlates of State Policy Project and National\nConference of State Legislatures")
-ggsave("party_control.pdf", device = cairo_pdf)
+  labs(caption = "Note: Excludes Nebraska. Sources: Correlates of State Policy Project and National\nConference of State Legislatures")
+ggsave("../paper/plots/party_control.pdf", device = cairo_pdf)
 
 
 

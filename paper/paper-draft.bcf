@@ -166,7 +166,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>ynt</bcf:value>
+      <bcf:value>nty</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -2960,10 +2960,39 @@
     <bcf:datasource type="file" datatype="bibtex">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">hertel-fernandezBusinessAssociationsConservative2016</bcf:citekey>
+    <bcf:citekey order="1">dupuisCityRightsEra2018</bcf:citekey>
+    <bcf:citekey order="1">schraggerStatePreemptionLocal2017</bcf:citekey>
+    <bcf:citekey order="2">vonwilpertCityGovernmentsAre2017</bcf:citekey>
+    <bcf:citekey order="3">goodmanStateLegislativeIdeology2019</bcf:citekey>
+    <bcf:citekey order="4">hicksHomeRuleBe2018</bcf:citekey>
+    <bcf:citekey order="4">fowlerStatePreemptionLocal2019</bcf:citekey>
+    <bcf:citekey order="4">flavinExplainingStatePreemption2019</bcf:citekey>
+    <bcf:citekey order="4">riverstone-newellRiseStatePreemption2017</bcf:citekey>
+    <bcf:citekey order="5">flavinExplainingStatePreemption2019</bcf:citekey>
+    <bcf:citekey order="6">fowlerStatePreemptionLocal2019</bcf:citekey>
+    <bcf:citekey order="7">goodmanStateLegislativeIdeology2019</bcf:citekey>
+    <bcf:citekey order="8">bermanLocalGovernmentStates2003</bcf:citekey>
+    <bcf:citekey order="9">kraneHomeRuleAmerica2000</bcf:citekey>
+    <bcf:citekey order="10">bermanLocalGovernmentStates2003</bcf:citekey>
+    <bcf:citekey order="11">kraneHomeRuleAmerica2000</bcf:citekey>
+    <bcf:citekey order="12">bermanLocalGovernmentStates2003</bcf:citekey>
+    <bcf:citekey order="13">kraneHomeRuleAmerica2000</bcf:citekey>
+    <bcf:citekey order="14">richardsonDillonRuleMars2011</bcf:citekey>
+    <bcf:citekey order="15">kraneHomeRuleAmerica2000</bcf:citekey>
+    <bcf:citekey order="16">dillerIntrastatePreemption2007</bcf:citekey>
+    <bcf:citekey order="17">kraneHomeRuleAmerica2000</bcf:citekey>
+    <bcf:citekey order="18">ansolabehereEndInequalityOne2008</bcf:citekey>
+    <bcf:citekey order="19">bermanLocalGovernmentStates2003</bcf:citekey>
+    <bcf:citekey order="20">bermanLocalGovernmentStates2003</bcf:citekey>
+    <bcf:citekey order="21">dillerIntrastatePreemption2007</bcf:citekey>
+    <bcf:citekey order="22">kraneHomeRuleAmerica2000</bcf:citekey>
+    <bcf:citekey order="23">dillerIntrastatePreemption2007</bcf:citekey>
+    <bcf:citekey order="24">dillonLawMunicipalCorporations1873</bcf:citekey>
+    <bcf:citekey order="25">kraneHomeRuleAmerica2000</bcf:citekey>
+    <bcf:citekey order="26">dillonLawMunicipalCorporations1873</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="ynt">
+  <bcf:sortingtemplate name="nty">
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
     </bcf:sort>
@@ -2971,11 +3000,6 @@
       <bcf:sortitem order="1">sortkey</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="3">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem literal="1" order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
       <bcf:sortitem order="1">sortname</bcf:sortitem>
       <bcf:sortitem order="2">author</bcf:sortitem>
       <bcf:sortitem order="3">editor</bcf:sortitem>
@@ -2983,16 +3007,24 @@
       <bcf:sortitem order="5">sorttitle</bcf:sortitem>
       <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="5">
+    <bcf:sort order="4">
       <bcf:sortitem order="1">sorttitle</bcf:sortitem>
       <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
-                name="ynt/global//global/global"
+                name="nty/global//global/global"
                 type="entry"
-                sortingtemplatename="ynt"
+                sortingtemplatename="nty"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"

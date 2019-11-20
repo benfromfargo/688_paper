@@ -18,54 +18,618 @@
 
 
 \refsection{0}
-  \datalist[entry]{ynt/global//global/global}
-    \entry{hertel-fernandezBusinessAssociationsConservative2016}{article}{}
-      \name{author}{3}{}{%
-        {{hash=c58e2055592991dc440350bac74834f5}{%
-           family={{Hertel-Fernandez}},
-           familyi={H\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod}}}%
-        {{hash=a6c7d3389d5ad65fa5d2c9a5d7c657a8}{%
-           family={Skocpol},
-           familyi={S\bibinitperiod},
-           given={Theda},
-           giveni={T\bibinitperiod}}}%
-        {{hash=0777e3b0c6a9c4da15045242b47a0cf1}{%
-           family={Lynch},
-           familyi={L\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
+  \datalist[entry]{nty/global//global/global}
+    \entry{ansolabehereEndInequalityOne2008}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b4eb159d441c4c0f7b14bb55b6e910c7}{%
+           family={Ansolabehere},
+           familyi={A\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5780645076cff729e3c94d9c4d135bd6}{%
+           family={Snyder\bibnamedelima Jr.},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={James\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
       \list{language}{1}{%
-        {en}%
+        {English}%
       }
-      \strng{namehash}{bf06e66a130b30ebd3a32503663a2012}
-      \strng{fullhash}{bf06e66a130b30ebd3a32503663a2012}
-      \strng{bibnamehash}{bf06e66a130b30ebd3a32503663a2012}
-      \strng{authorbibnamehash}{bf06e66a130b30ebd3a32503663a2012}
-      \strng{authornamehash}{bf06e66a130b30ebd3a32503663a2012}
-      \strng{authorfullhash}{bf06e66a130b30ebd3a32503663a2012}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton \& Company}%
+      }
+      \strng{namehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{fullhash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{bibnamehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{authorbibnamehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{authornamehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{authorfullhash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The End of Inequality takes a close look at Baker v. Carr, the pivotal Supreme Court case that established the right to equal representation in state legislatures for every American. Stephen Ansolabehere and James Snyder detail the history of ``one person, one vote'' in American political theory and politics, and tell the story of the people\rule{1em}{1pt}presidents, legislators, judges, lawyers, and ordinary citizens\rule{1em}{1pt}who fought the battles to define this fundamental feature of American democracy.}
+      \field{isbn}{978-0-393-93103-7}
+      \field{month}{3}
+      \field{shorttitle}{The {{End}} of {{Inequality}}}
+      \field{title}{The {{End}} of {{Inequality}}: {{One Person}}, {{One Vote}} and the {{Transformation}} of {{American Politics}}}
+      \field{year}{2008}
+    \endentry
+    \entry{bermanLocalGovernmentStates2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f8bd8f0fbf5dae4aaea75404842a02b0}{%
+           family={Berman},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, New York; London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{f8bd8f0fbf5dae4aaea75404842a02b0}
+      \strng{fullhash}{f8bd8f0fbf5dae4aaea75404842a02b0}
+      \strng{bibnamehash}{f8bd8f0fbf5dae4aaea75404842a02b0}
+      \strng{authorbibnamehash}{f8bd8f0fbf5dae4aaea75404842a02b0}
+      \strng{authornamehash}{f8bd8f0fbf5dae4aaea75404842a02b0}
+      \strng{authorfullhash}{f8bd8f0fbf5dae4aaea75404842a02b0}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Second edition.}
+      \field{isbn}{978-0-429-01611-0}
+      \field{shorttitle}{Local {{Government}} and the {{States}}}
+      \field{title}{Local {{Government}} and the {{States}}: {{Autonomy}}, {{Politics}}, and {{Policy}}}
+      \field{year}{2003}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/JNK4T8A9/017496470.html
+      \endverb
+    \endentry
+    \entry{dillerIntrastatePreemption2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=af62c980c2fbdeade6bc429911b21ea2}{%
+           family={Diller},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{af62c980c2fbdeade6bc429911b21ea2}
+      \strng{fullhash}{af62c980c2fbdeade6bc429911b21ea2}
+      \strng{bibnamehash}{af62c980c2fbdeade6bc429911b21ea2}
+      \strng{authorbibnamehash}{af62c980c2fbdeade6bc429911b21ea2}
+      \strng{authornamehash}{af62c980c2fbdeade6bc429911b21ea2}
+      \strng{authorfullhash}{af62c980c2fbdeade6bc429911b21ea2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{0361-6878}
-      \field{journaltitle}{Journal of Health Politics, Policy and Law}
-      \field{month}{4}
-      \field{number}{2}
-      \field{title}{Business {{Associations}}, {{Conservative Networks}}, and the {{Ongoing Republican War Over Medicaid Expansion}}}
-      \field{volume}{41}
-      \field{year}{2016}
-      \field{pages}{239\bibrangedash 286}
-      \range{pages}{48}
+      \field{journaltitle}{Boston University Law Review}
+      \field{number}{5}
+      \field{title}{Intrastate {{Preemption}}}
+      \field{year}{2007}
+      \field{pages}{1113\bibrangedash 1176}
+      \range{pages}{64}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/BGBEHSUK/Diller - 2007 - Intrastate Preemption.pdf
+      \endverb
+    \endentry
+    \entry{dillonLawMunicipalCorporations1873}{book}{}
+      \name{author}{1}{}{%
+        {{hash=01062b8e02cb07c632237e5a561bfe0f}{%
+           family={Dillon},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {James Cockcroft}%
+      }
+      \strng{namehash}{01062b8e02cb07c632237e5a561bfe0f}
+      \strng{fullhash}{01062b8e02cb07c632237e5a561bfe0f}
+      \strng{bibnamehash}{01062b8e02cb07c632237e5a561bfe0f}
+      \strng{authorbibnamehash}{01062b8e02cb07c632237e5a561bfe0f}
+      \strng{authornamehash}{01062b8e02cb07c632237e5a561bfe0f}
+      \strng{authorfullhash}{01062b8e02cb07c632237e5a561bfe0f}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2d ed. /}
+      \field{title}{The {{Law}} of {{Municipal Corporations}}}
+      \field{year}{1873}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/2XBPWJND/007698322.html
+      \endverb
+    \endentry
+    \entry{dupuisCityRightsEra2018}{report}{}
+      \name{author}{5}{}{%
+        {{hash=c3fc51f738f83cebdf75c0031e0ca327}{%
+           family={DuPuis},
+           familyi={D\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+        {{hash=412c8f5deca99104d54357553c68f612}{%
+           family={Langan},
+           familyi={L\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7903a441191fb75eb4e9197e800a6c6c}{%
+           family={McFarland},
+           familyi={M\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=72404c804f35d0fb813c966ea47522c6}{%
+           family={Panettieri},
+           familyi={P\bibinitperiod},
+           given={Angelina},
+           giveni={A\bibinitperiod}}}%
+        {{hash=12eba2ee86a49b4978f4642252a2364e}{%
+           family={Rainwater},
+           familyi={R\bibinitperiod},
+           given={Brooks},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {National League of Cities}%
+      }
+      \strng{namehash}{ed3fab41234726b958e5198e65876125}
+      \strng{fullhash}{efa1652eb48c49734457ccab6ffd38e8}
+      \strng{bibnamehash}{ed3fab41234726b958e5198e65876125}
+      \strng{authorbibnamehash}{ed3fab41234726b958e5198e65876125}
+      \strng{authornamehash}{ed3fab41234726b958e5198e65876125}
+      \strng{authorfullhash}{efa1652eb48c49734457ccab6ffd38e8}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{City {{Rights}} in an {{Era}} of {{Preemption}}: {{A State}}-by-{{State Analysis}}}
+      \field{type}{techreport}
+      \field{year}{2018}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/FBD9DY76/NLC-SML Preemption Report 2017-pages.pdf
+      \endverb
+    \endentry
+    \entry{flavinExplainingStatePreemption2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2a033e2270bdd42feb06e3a9b68b3f41}{%
+           family={Flavin},
+           familyi={F\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d75d01154853a3c45641d0a6568ceea8}{%
+           family={Shufeldt},
+           familyi={S\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f297f26f62b52df8935617385f33a1f4}
+      \strng{fullhash}{f297f26f62b52df8935617385f33a1f4}
+      \strng{bibnamehash}{f297f26f62b52df8935617385f33a1f4}
+      \strng{authorbibnamehash}{f297f26f62b52df8935617385f33a1f4}
+      \strng{authornamehash}{f297f26f62b52df8935617385f33a1f4}
+      \strng{authorfullhash}{f297f26f62b52df8935617385f33a1f4}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract. Despite increasing popular and media attention to the preemption of local policymaking by state governments, the empirical political science literatu}
+      \field{journaltitle}{Publius: The Journal of Federalism}
+      \field{month}{9}
+      \field{shorttitle}{Explaining {{State Preemption}} of {{Local Laws}}}
+      \field{title}{Explaining {{State Preemption}} of {{Local Laws}}: {{Political}}, {{Institutional}}, and {{Demographic Factors}}}
+      \field{year}{2019}
       \verb{doi}
-      \verb 10.1215/03616878-3476141
+      \verb 10.1093/publius/pjz024
       \endverb
       \verb{file}
-      \verb /Users/Ben/Zotero/storage/IYGKU3Q4/Hertel-Fernandez et al. - 2016 - Business Associations, Conservative Networks, and .pdf;/Users/Ben/Zotero/storage/5NRXL32B/13814.html
+      \verb /Users/Ben/Zotero/storage/SUV2A9HR/Flavin and Shufeldt - Explaining State Preemption of Local Laws Politic.pdf;/Users/Ben/Zotero/storage/EGIGHNF7/5573795.html
+      \endverb
+    \endentry
+    \entry{fowlerStatePreemptionLocal2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0a06584fe8955bcdc0e9b3735b5ec085}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7425ecfa67118dc818f96743ac87668b}{%
+           family={Witt},
+           familyi={W\bibinitperiod},
+           given={Stephanie\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1d5aee4712a4a71ca66b56d4ab7f7c57}
+      \strng{fullhash}{1d5aee4712a4a71ca66b56d4ab7f7c57}
+      \strng{bibnamehash}{1d5aee4712a4a71ca66b56d4ab7f7c57}
+      \strng{authorbibnamehash}{1d5aee4712a4a71ca66b56d4ab7f7c57}
+      \strng{authornamehash}{1d5aee4712a4a71ca66b56d4ab7f7c57}
+      \strng{authorfullhash}{1d5aee4712a4a71ca66b56d4ab7f7c57}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract. State preemption of local policymaking has attracted increasing attention from scholars, public officials, and citizens, as states have prevented loc}
+      \field{issn}{0048-5950}
+      \field{journaltitle}{Publius: The Journal of Federalism}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shorttitle}{State {{Preemption}} of {{Local Authority}}}
+      \field{title}{State {{Preemption}} of {{Local Authority}}: {{Explaining Patterns}} of {{State Adoption}} of {{Preemption Measures}}}
+      \field{volume}{49}
+      \field{year}{2019}
+      \field{pages}{540\bibrangedash 559}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1093/publius/pjz011
+      \endverb
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/EYLUALKT/Fowler and Witt - 2019 - State Preemption of Local Authority Explaining Pa.pdf;/Users/Ben/Zotero/storage/FHYPX4R5/5490316.html
+      \endverb
+    \endentry
+    \entry{goodmanStateLegislativeIdeology2019}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8f96eefab5058a8ac77c742e33841fdf}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={Christopher\bibnamedelima B},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {SocArXiv}%
+      }
+      \strng{namehash}{8f96eefab5058a8ac77c742e33841fdf}
+      \strng{fullhash}{8f96eefab5058a8ac77c742e33841fdf}
+      \strng{bibnamehash}{8f96eefab5058a8ac77c742e33841fdf}
+      \strng{authorbibnamehash}{8f96eefab5058a8ac77c742e33841fdf}
+      \strng{authornamehash}{8f96eefab5058a8ac77c742e33841fdf}
+      \strng{authorfullhash}{8f96eefab5058a8ac77c742e33841fdf}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article discusses the influence of state legislative ideology on the legislative preemption of local ordinances in the area of worker rights. States define the powers of local governments within their purview and states may use this power to restrict local governments from pursuing certain policies. Using data on state legislative activity and ideology from 1993 to 2016, I find within-state increases in legislative ideology, indicating increased legislative conservatism, associated with an increased risk of preempting local government policy, all else equal. This finding is robust to a number of alternate specifications and hypotheses. Ideology appears to play an important role in the decision to involve the state in the affairs of local governments.}
+      \field{month}{2}
+      \field{shorttitle}{State {{Legislative Ideology}} \&amp; the {{Preemption}} of {{City Ordinances}}}
+      \field{title}{State {{Legislative Ideology}} \&amp; the {{Preemption}} of {{City Ordinances}}: {{The Case}} of {{Worker Rights Laws}}}
+      \field{type}{Preprint}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.31235/osf.io/2mnws
+      \endverb
+    \endentry
+    \entry{hicksHomeRuleBe2018}{article}{}
+      \name{author}{14}{}{%
+        {{hash=06a1d1b26d593628ac4ad47ab1ad2904}{%
+           family={Hicks},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9859906c86cede0bbd566441d523f0e1}{%
+           family={Weissert},
+           familyi={W\bibinitperiod},
+           given={Carol},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f44033e82b4c50d8f3cdd989168a942e}{%
+           family={Swanson},
+           familyi={S\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=186df100b8d1a2eb94908b5923a20703}{%
+           family={{Bulman-Pozen}},
+           familyi={B\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=eb239710e750f5d04184405645639e1f}{%
+           family={Kogan},
+           familyi={K\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=fe0f86a16d443cab6c946972c76480be}{%
+           family={{Riverstone-Newell}},
+           familyi={R\bibinitperiod},
+           given={Lori},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b9429b288c45a443c4a9b238488c62e5}{%
+           family={Bunch},
+           familyi={B\bibinitperiod},
+           given={Jaclyn},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bd24ad8306c1549ef5378e114ecc29ff}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Katherine\bibnamedelima Levine},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9a17a641a7bce83b983bc993bd55f4f2}{%
+           family={Glick},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d9a0c2083b7d8104832a0b10cb69d77b}{%
+           family={Daley},
+           familyi={D\bibinitperiod},
+           given={Dorothy\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=86ec064e2c4a93a4ef23c16e8af03a22}{%
+           family={Fisk},
+           familyi={F\bibinitperiod},
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cb6dad6575a9849a3d8b04da58d210a4}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Jami\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=eda8a1bb82ca355a1346fb4e40900bc7}{%
+           family={{Haider-Markel}},
+           familyi={H\bibinitperiod},
+           given={Donald\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8e2c5a9707fbdf9bbc5c074a11b5dc76}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Daniel\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{ef5d51d92fd5d25a7c78e668e8f142b7}
+      \strng{fullhash}{6dd0f81abaeab1ee5df805c23943fe23}
+      \strng{bibnamehash}{ef5d51d92fd5d25a7c78e668e8f142b7}
+      \strng{authorbibnamehash}{ef5d51d92fd5d25a7c78e668e8f142b7}
+      \strng{authornamehash}{ef5d51d92fd5d25a7c78e668e8f142b7}
+      \strng{authorfullhash}{6dd0f81abaeab1ee5df805c23943fe23}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In a time of increasing political conflict, attention is inevitably focused on Washington and the Trump White House. However, there are other important institutional fights across the country that are equally, if not more, important. These fights engage cities versus state governments over issues including gun control, environmental policies, nondiscrimination policies, and immigration, to name only a few examples. While partisanship plays a role in these conflicts (Republicans hold a majority of state legislatures and governorships and cities are predominantly led by Democrats), also at stake is the strength and vibrancy of federalism and representation of citizens whose views may differ substantially from the rest of the state. This Politics Spotlight addresses and analyzes these local-state conflicts from an academic perspective. Our goal is to motivate research that engages several crucial questions about the nature of conflicts between city and state governments. How common are these conflicts historically? Which governments typically have the upper hand and why? How important are they in shaping political institutions and the lives of ordinary citizens? What are their causes and causal mechanisms? The contributions to this Spotlight address these questions but also shed light on new avenues for research. The first three articles provide a general overview of these conflicts, with some useful hypotheses about their sources. The next articles provide historical and legal context to the issue. Our final three articles offer specific cases of policy conflicts.}
+      \field{issn}{10490965}
+      \field{journaltitle}{PS, Political Science \& Politics; Washington}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Home {{Rule Be Damned}}}
+      \field{title}{Home {{Rule Be Damned}}: {{Exploring Policy Conflicts}} between the {{Statehouse}} and {{City Hall}}}
+      \field{volume}{51}
+      \field{year}{2018}
+      \field{pages}{26\bibrangedash 38}
+      \range{pages}{13}
+      \verb{doi}
+      \verb http://dx.doi.org.proxy.lib.umich.edu/10.1017/S1049096517001421
+      \endverb
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/W9X9EFIH/Hicks et al. - 2018 - Home Rule Be Damned Exploring Policy Conflicts be.pdf
+      \endverb
+      \keyw{Cities,State government,Articles,Direct democracy,Federalism,Interest groups,Legislation,Local elections,Partisanship,Political representation,Political science,Political Science,Politics,State and local government relations}
+    \endentry
+    \entry{kraneHomeRuleAmerica2000}{book}{}
+      \name{author}{3}{}{%
+        {{hash=b96ab5fbff9f8337aec1e7b5d313a51e}{%
+           family={Krane},
+           familyi={K\bibinitperiod},
+           given={Dale\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0a9e91a8b53bf776735c06665190e447}{%
+           family={Rigos},
+           familyi={R\bibinitperiod},
+           given={Platon\bibnamedelima N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=a213935fdf565cee12fe4d69e2da7c7f}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Melvin\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C}%
+      }
+      \list{publisher}{1}{%
+        {CQ Press}%
+      }
+      \strng{namehash}{4ed9edd29f01be14bfa614139195677a}
+      \strng{fullhash}{4ed9edd29f01be14bfa614139195677a}
+      \strng{bibnamehash}{4ed9edd29f01be14bfa614139195677a}
+      \strng{authorbibnamehash}{4ed9edd29f01be14bfa614139195677a}
+      \strng{authornamehash}{4ed9edd29f01be14bfa614139195677a}
+      \strng{authorfullhash}{4ed9edd29f01be14bfa614139195677a}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Home rule powers are essential parts of the American governing process, but they vary widely from state to state. This authoritative reference work examines the powers and functions of municipalities and counties that operate under home rule within each state. For example, the ability of a local municipality to raise taxes, annex land, or impose regulations is determined by their home rule powers from the states. This volume provides a reliable reference work for researchers and students - a single source that readers can trust for information about: The actions that local governments can - and cannot - pursue States where power is centralized at the capital and where it is not How home rule varies within each state by governmental function Trends in important issues such as taxes, land annexation, and citizen access. The editors organized the book in three parts: an overview of American home rule, including its history; a state-by-state description of home rule authority; and a comparative appendix that allows readers a quick reference source of powers by state. A scholar or governmental expert was selected in each state to prepare the state descriptions. Each chapter follows the same outline of content that allows easy comparison between states. In an era of power and responsibilities devolving from the national government to states and localities, the use of home rule powers has become increasingly important to the health of American government and federalism. Researchers and interested citizens will benefit from this comprehensive reference. Home Rule in America was directed by Dale Krane of the department of public administration, University of Nebraska, Omaha; Platon N. Rigos, department of government and international affairs, University of South Florida; and Melvin Hill, the Vinson Institute of Government, University of Georgia.}
+      \field{edition}{1 edition}
+      \field{isbn}{978-1-56802-281-9}
+      \field{month}{6}
+      \field{shorttitle}{Home {{Rule}} in {{America}}}
+      \field{title}{Home {{Rule}} in {{America}}: {{A Fifty}}-{{State Handbook}}}
+      \field{year}{2000}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/YSC7CAYX/Krane et al. - 2000 - Home Rule in America A Fifty-State Handbook.PDF
+      \endverb
+    \endentry
+    \entry{richardsonDillonRuleMars2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=69ffd926849f9d4a2dc40dd5f8509cd0}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Jesse\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{69ffd926849f9d4a2dc40dd5f8509cd0}
+      \strng{fullhash}{69ffd926849f9d4a2dc40dd5f8509cd0}
+      \strng{bibnamehash}{69ffd926849f9d4a2dc40dd5f8509cd0}
+      \strng{authorbibnamehash}{69ffd926849f9d4a2dc40dd5f8509cd0}
+      \strng{authornamehash}{69ffd926849f9d4a2dc40dd5f8509cd0}
+      \strng{authorfullhash}{69ffd926849f9d4a2dc40dd5f8509cd0}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract. ``Dillon's Rule'' and ``home rule'' are terms often used to denote limited and expansive local government autonomy, respectively. In particular, much lit}
+      \field{issn}{0048-5950}
+      \field{journaltitle}{Publius: The Journal of Federalism}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{Dillon's {{Rule}} Is {{From Mars}}, {{Home Rule}} Is {{From Venus}}}
+      \field{title}{Dillon's {{Rule}} Is {{From Mars}}, {{Home Rule}} Is {{From Venus}}: {{Local Government Autonomy}} and the {{Rules}} of {{Statutory Construction}}}
+      \field{volume}{41}
+      \field{year}{2011}
+      \field{pages}{662\bibrangedash 685}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1093/publius/pjr030
+      \endverb
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/CT2MVFV2/Richardson - 2011 - Dillon’s Rule is From Mars, Home Rule is From Venu.pdf;/Users/Ben/Zotero/storage/N3X6PV5T/1862295.html
+      \endverb
+    \endentry
+    \entry{riverstone-newellRiseStatePreemption2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fe0f86a16d443cab6c946972c76480be}{%
+           family={{Riverstone-Newell}},
+           familyi={R\bibinitperiod},
+           given={Lori},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fe0f86a16d443cab6c946972c76480be}
+      \strng{fullhash}{fe0f86a16d443cab6c946972c76480be}
+      \strng{bibnamehash}{fe0f86a16d443cab6c946972c76480be}
+      \strng{authorbibnamehash}{fe0f86a16d443cab6c946972c76480be}
+      \strng{authornamehash}{fe0f86a16d443cab6c946972c76480be}
+      \strng{authorfullhash}{fe0f86a16d443cab6c946972c76480be}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract. This article analyzes the increasing use of state preemption law by conservative state leaders as a tool to rein in progressive local governments. Th}
+      \field{issn}{0048-5950}
+      \field{journaltitle}{Publius: The Journal of Federalism}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{The {{Rise}} of {{State Preemption Laws}} in {{Response}} to {{Local Policy Innovation}}}
+      \field{volume}{47}
+      \field{year}{2017}
+      \field{pages}{403\bibrangedash 425}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1093/publius/pjx037
+      \endverb
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/L4HMTY4H/Riverstone-Newell - 2017 - The Rise of State Preemption Laws in Response to L.pdf;/Users/Ben/Zotero/storage/U9D7WREB/3852645.html
+      \endverb
+    \endentry
+    \entry{schraggerStatePreemptionLocal2017}{report}{}
+      \name{author}{1}{}{%
+        {{hash=70dbcd106f0bf1e2c3b0c7b6043466cf}{%
+           family={Schragger},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Legal Effort to Address Preemption (LEAP) Project}%
+      }
+      \strng{namehash}{70dbcd106f0bf1e2c3b0c7b6043466cf}
+      \strng{fullhash}{70dbcd106f0bf1e2c3b0c7b6043466cf}
+      \strng{bibnamehash}{70dbcd106f0bf1e2c3b0c7b6043466cf}
+      \strng{authorbibnamehash}{70dbcd106f0bf1e2c3b0c7b6043466cf}
+      \strng{authornamehash}{70dbcd106f0bf1e2c3b0c7b6043466cf}
+      \strng{authorfullhash}{70dbcd106f0bf1e2c3b0c7b6043466cf}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{State {{Preemption}} of {{Local Laws}}: {{Preliminary Review}} of {{Substantive Areas}}}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/U4ZHKPCJ/d91411_498e690d818747359db09a948ba1056d.pdf
+      \endverb
+    \endentry
+    \entry{vonwilpertCityGovernmentsAre2017}{report}{}
+      \name{author}{1}{}{%
+        {{hash=eac8e040dd7cfd762c2daf145a129736}{%
+           family={{von Wilpert}},
+           familyi={v\bibinitperiod},
+           given={Marni},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Economic Policy Institute}%
+      }
+      \strng{namehash}{eac8e040dd7cfd762c2daf145a129736}
+      \strng{fullhash}{eac8e040dd7cfd762c2daf145a129736}
+      \strng{bibnamehash}{eac8e040dd7cfd762c2daf145a129736}
+      \strng{authorbibnamehash}{eac8e040dd7cfd762c2daf145a129736}
+      \strng{authornamehash}{eac8e040dd7cfd762c2daf145a129736}
+      \strng{authorfullhash}{eac8e040dd7cfd762c2daf145a129736}
+      \field{sortinit}{v}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{On August 28, 2017, low-wage workers in St. Louis, Missouri, became the latest victims of state preemption laws. St. Louis had raised its minimum wage above the state minimum—{}but was then forced to lower it back down when the Missouri state legislature preempted the local ordinance.}
+      \field{month}{8}
+      \field{title}{City Governments Are Raising Standards for Working People—{}and State Legislators Are Lowering Them Back Down}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/M42IVEK7/city-governments-are-raising-standards-for-working-people-and-state-legislators-are-lowering-th.html
       \endverb
     \endentry
   \enddatalist
