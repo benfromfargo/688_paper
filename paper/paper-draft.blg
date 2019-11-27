@@ -1,19 +1,19 @@
 [0] Config.pm:304> INFO - This is Biber 2.13
-[0] Config.pm:307> INFO - Logfile is 'paper-draft.blg'
-[43] biber-darwin:315> INFO - === Tue Nov 26, 2019, 18:06:55
-[64] Biber.pm:375> INFO - Reading 'paper-draft.bcf'
-[255] Biber.pm:905> INFO - Found 24 citekeys in bib section 0
-[275] Biber.pm:4196> INFO - Processing section 0
-[275] Utils.pm:75> INFO - Globbing data source 'bibliography.bib'
-[276] Utils.pm:91> INFO - Globbed data source 'bibliography.bib' to bibliography.bib
-[286] Biber.pm:4373> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[294] bibtex.pm:1462> INFO - LaTeX decoding ...
-[481] bibtex.pm:1281> INFO - Found BibTeX data source 'bibliography.bib'
-[662] Utils.pm:300> WARN - year field 'n.d.' in entry 'giffordslawcenterPreemptionLocalLawsn.d.' is not an integer - this will probably not sort properly.
-[723] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[723] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[723] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[723] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[751] bbl.pm:648> INFO - Writing 'paper-draft.bbl' with encoding 'UTF-8'
-[775] bbl.pm:751> INFO - Output to paper-draft.bbl
-[776] Biber.pm:110> INFO - WARNINGS: 1
+[1] Config.pm:307> INFO - Logfile is 'paper-draft.blg'
+[59] biber-darwin:315> INFO - === Wed Nov 27, 2019, 17:18:45
+[88] Biber.pm:375> INFO - Reading 'paper-draft.bcf'
+[329] Biber.pm:905> INFO - Found 30 citekeys in bib section 0
+[358] Biber.pm:4196> INFO - Processing section 0
+[359] Utils.pm:75> INFO - Globbing data source 'bibliography.bib'
+[360] Utils.pm:91> INFO - Globbed data source 'bibliography.bib' to bibliography.bib
+[374] Biber.pm:4373> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[386] bibtex.pm:1462> INFO - LaTeX decoding ...
+[642] bibtex.pm:1281> INFO - Found BibTeX data source 'bibliography.bib'
+[896] Utils.pm:300> WARN - year field 'n.d.' in entry 'giffordslawcenterPreemptionLocalLawsn.d.' is not an integer - this will probably not sort properly.
+[1023] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1024] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1024] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1024] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[1070] bbl.pm:648> INFO - Writing 'paper-draft.bbl' with encoding 'UTF-8'
+[1102] bbl.pm:751> INFO - Output to paper-draft.bbl
+[1102] Biber.pm:110> INFO - WARNINGS: 1

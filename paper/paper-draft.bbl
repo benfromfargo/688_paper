@@ -228,6 +228,77 @@
       \verb /Users/Ben/Zotero/storage/JWVHH6BQ/mm5904a4.html
       \endverb
     \endentry
+    \entry{chenUnintentionalGerrymanderingPolitical2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ffc34d0e7cff63716966e5afc7ae46d9}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jowei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e45e84dd5a00f5ce7c2db2028fd542db}{%
+           family={Rodden},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{1334d4b83a17526295825dd26fbdf3de}
+      \strng{fullhash}{1334d4b83a17526295825dd26fbdf3de}
+      \strng{bibnamehash}{1334d4b83a17526295825dd26fbdf3de}
+      \strng{authorbibnamehash}{1334d4b83a17526295825dd26fbdf3de}
+      \strng{authornamehash}{1334d4b83a17526295825dd26fbdf3de}
+      \strng{authorfullhash}{1334d4b83a17526295825dd26fbdf3de}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Unintentional Gerrymandering: Political Geography and Electoral Bias in Legislatures}
+      \field{issn}{1554-0626, 1554-0634}
+      \field{journaltitle}{Quarterly Journal of Political Science}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shorttitle}{Unintentional {{Gerrymandering}}}
+      \field{title}{Unintentional {{Gerrymandering}}: {{Political Geography}} and {{Electoral Bias}} in {{Legislatures}}}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{239\bibrangedash 269}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1561/100.00012033
+      \endverb
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/C46SJ7XX/Chen and Rodden - 2013 - Unintentional Gerrymandering Political Geography .pdf;/Users/Ben/Zotero/storage/DXKYCIQL/QJPS-12033.html
+      \endverb
+    \endentry
+    \entry{cqpressCQVotingElections2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e5fd2696ceb8ab8946a618333b51d6f6}{%
+           family={{CQ Press}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5fd2696ceb8ab8946a618333b51d6f6}
+      \strng{fullhash}{e5fd2696ceb8ab8946a618333b51d6f6}
+      \strng{bibnamehash}{e5fd2696ceb8ab8946a618333b51d6f6}
+      \strng{authorbibnamehash}{e5fd2696ceb8ab8946a618333b51d6f6}
+      \strng{authornamehash}{e5fd2696ceb8ab8946a618333b51d6f6}
+      \strng{authorfullhash}{e5fd2696ceb8ab8946a618333b51d6f6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{http://library.cqpress.com.proxy.lib.umich.edu/elections/}
+      \field{title}{{{CQ Voting}} and {{Elections Collection}}}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/DWTLX7NH/elections.html
+      \endverb
+    \endentry
     \entry{dillerIntrastatePreemption2007}{article}{}
       \name{author}{1}{}{%
         {{hash=af62c980c2fbdeade6bc429911b21ea2}{%
@@ -632,6 +703,39 @@
       \endverb
       \keyw{Cities,State government,Articles,Direct democracy,Federalism,Interest groups,Legislation,Local elections,Partisanship,Political representation,Political science,Political Science,Politics,State and local government relations}
     \endentry
+    \entry{jordanCorrelatesStatePolicy2017}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=0d02e729e927fc42ec6da3198bc884d8}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={Marty\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8cac8ba3323a8399c232f2b577462561}{%
+           family={Grossman},
+           familyi={G\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fb84d1b46e4f22ecf64460b16297fc3}
+      \strng{fullhash}{4fb84d1b46e4f22ecf64460b16297fc3}
+      \strng{bibnamehash}{4fb84d1b46e4f22ecf64460b16297fc3}
+      \strng{authorbibnamehash}{4fb84d1b46e4f22ecf64460b16297fc3}
+      \strng{authornamehash}{4fb84d1b46e4f22ecf64460b16297fc3}
+      \strng{authorfullhash}{4fb84d1b46e4f22ecf64460b16297fc3}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{http://ippsr.msu.edu/public-policy/correlates-state-policy}
+      \field{journaltitle}{East Lansing, MI: Institute for Public Policy and Social Research (IPPSR)}
+      \field{title}{The {{Correlates}} of {{State Policy Project}} v.2.1.}
+      \field{year}{2017}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/9BX24T3T/correlates-state-policy.html
+      \endverb
+    \endentry
     \entry{kraneHomeRuleAmerica2000}{book}{}
       \name{author}{3}{}{%
         {{hash=b96ab5fbff9f8337aec1e7b5d313a51e}{%
@@ -682,6 +786,36 @@
       \verb /Users/Ben/Zotero/storage/YSC7CAYX/Krane et al. - 2000 - Home Rule in America A Fifty-State Handbook.PDF
       \endverb
     \endentry
+    \entry{mckinleyCuomoBlocksNew2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4daa5edad588a15198ac5c405551dc12}{%
+           family={McKinley},
+           familyi={M\bibinitperiod},
+           given={Jesse},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The New York Times}%
+      }
+      \strng{namehash}{4daa5edad588a15198ac5c405551dc12}
+      \strng{fullhash}{4daa5edad588a15198ac5c405551dc12}
+      \strng{bibnamehash}{4daa5edad588a15198ac5c405551dc12}
+      \strng{authorbibnamehash}{4daa5edad588a15198ac5c405551dc12}
+      \strng{authornamehash}{4daa5edad588a15198ac5c405551dc12}
+      \strng{authorfullhash}{4daa5edad588a15198ac5c405551dc12}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{Cuomo {{Blocks New York City Plastic Bag Law}}}
+      \field{year}{2017}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/JG4LD27B/cuomo-blocks-new-york-city-plastic-bag-law.html
+      \endverb
+    \endentry
     \entry{nationalcancerinstituteStateLocalLegislative2000}{book}{}
       \name{author}{1}{}{%
         {{hash=2cd1feffd5a7e94e8f7285492f01b34b}{%
@@ -713,6 +847,31 @@
       \verb /Users/Ben/Zotero/storage/5NLS3H3G/003508560.html
       \endverb
       \keyw{Government policy,Prevention,Smoking,Health Policy,legislation \& jurisprudence,Legislation \& jurisprudence,prevention \& control,Smoking cessation,Tobacco Industry,Tobacco use,Tobacco Use Disorder,Treatment,United States.}
+    \endentry
+    \entry{nationalconferenceofstatelegislaturesStatePartisanComposition2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fe86394272228984520bab1255273616}{%
+           family={{National Conference of State Legislatures}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe86394272228984520bab1255273616}
+      \strng{fullhash}{fe86394272228984520bab1255273616}
+      \strng{bibnamehash}{fe86394272228984520bab1255273616}
+      \strng{authorbibnamehash}{fe86394272228984520bab1255273616}
+      \strng{authornamehash}{fe86394272228984520bab1255273616}
+      \strng{authorfullhash}{fe86394272228984520bab1255273616}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{http://www.ncsl.org/research/about-state-legislatures/partisan-composition.aspx}
+      \field{title}{State {{Partisan Composition}}}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/EDXNRCWH/partisan-composition.html
+      \endverb
     \endentry
     \entry{richardsonDillonRuleMars2011}{article}{}
       \name{author}{1}{}{%
@@ -793,6 +952,39 @@
       \endverb
       \verb{file}
       \verb /Users/Ben/Zotero/storage/L4HMTY4H/Riverstone-Newell - 2017 - The Rise of State Preemption Laws in Response to L.pdf;/Users/Ben/Zotero/storage/U9D7WREB/3852645.html
+      \endverb
+    \endentry
+    \entry{scharffHyperPreemptionReordering2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a15205d8aa76ecdb1f4ce59e8560d94f}{%
+           family={Scharff},
+           familyi={S\bibinitperiod},
+           given={Erin\bibnamedelima Adele},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{a15205d8aa76ecdb1f4ce59e8560d94f}
+      \strng{fullhash}{a15205d8aa76ecdb1f4ce59e8560d94f}
+      \strng{bibnamehash}{a15205d8aa76ecdb1f4ce59e8560d94f}
+      \strng{authorbibnamehash}{a15205d8aa76ecdb1f4ce59e8560d94f}
+      \strng{authornamehash}{a15205d8aa76ecdb1f4ce59e8560d94f}
+      \strng{authorfullhash}{a15205d8aa76ecdb1f4ce59e8560d94f}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{howpublished}{https://link.galegroup.com/apps/doc/A548321179/AONE?sid=lms}
+      \field{journaltitle}{Georgetown Law Journal}
+      \field{month}{6}
+      \field{shorttitle}{Hyper {{Preemption}}}
+      \field{title}{Hyper {{Preemption}}: {{A Reordering}} of the {{State}}-{{Local Relationship}}?}
+      \field{year}{2018}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/JC6SL3IL/retrieve.html
       \endverb
     \endentry
     \entry{schraggerStatePreemptionLocal2017}{report}{}

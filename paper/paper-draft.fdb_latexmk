@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber paper-draft"] 1574809613 "paper-draft.bcf" "paper-draft.bbl" "paper-draft" 1574816689
-  "bibliography.bib" 1574809478 55032 a5bd75fdbcf64143374749819ff6c25e ""
-  "paper-draft.bcf" 1574816688 135254 ad94de0eba147a66b04ff3d1a045507b "pdflatex"
+["biber paper-draft"] 1574893123 "paper-draft.bcf" "paper-draft.bbl" "paper-draft" 1574893139
+  "bibliography.bib" 1574890579 58819 e4f00e386b1039de4e1d8855a2f45253 ""
+  "paper-draft.bcf" 1574893139 137169 00205d3f5197661e1396241f878d9a8d "pdflatex"
   (generated)
   "paper-draft.bbl"
   "paper-draft.blg"
-["pdflatex"] 1574816686 "paper-draft.tex" "paper-draft.pdf" "paper-draft" 1574816689
+["pdflatex"] 1574893136 "paper-draft.tex" "paper-draft.pdf" "paper-draft" 1574893139
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -21,6 +21,7 @@
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1136768653 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
@@ -31,6 +32,7 @@
   "/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1248133631 31099 c85edf1dd5b9e826d67c9c7293b6786c ""
   "/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1248133631 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
   "/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
@@ -85,15 +87,15 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1566744817 4641080 fe1b79c6ead19573b2061dde83f2c777 ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1566744926 4264881 eb0ba607753bf688e96e01d48c35971a ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "paper-draft.aux" 1574816688 9590 3f25def518ebc86abad7b90d21be1e80 "pdflatex"
-  "paper-draft.bbl" 1574809615 52985 2d5c8a96cedd93e1cfd86cca51ae4bbc "biber paper-draft"
-  "paper-draft.run.xml" 1574816688 2390 9b15c8c410a6f95ff2c4ea25c9583e4b "pdflatex"
-  "paper-draft.tex" 1574816686 24323 2f1ab36c3c562599e0ba97ac06f73f09 ""
+  "paper-draft.aux" 1574893139 12837 aaf13540fc92e335e67699a86d0995cf "pdflatex"
+  "paper-draft.bbl" 1574893126 61391 d7f2bc1d9fe48b6f49cf6c466981735f "biber paper-draft"
+  "paper-draft.run.xml" 1574893139 2390 9b15c8c410a6f95ff2c4ea25c9583e4b "pdflatex"
+  "paper-draft.tex" 1574893133 30629 99e97622df149d124edf282465a606b8 ""
   "plots/county_support.pdf" 1574253861 17016 07e99eeaac8db21ec8e7224eefc6a9ba ""
   "plots/party_control.pdf" 1574212747 15763 f6012d39b9cbd8b0e174ecd49178786a ""
   (generated)
-  "paper-draft.pdf"
-  "paper-draft.aux"
   "paper-draft.bcf"
+  "paper-draft.aux"
+  "paper-draft.pdf"
   "paper-draft.run.xml"
   "paper-draft.log"
