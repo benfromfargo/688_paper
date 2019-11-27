@@ -81,7 +81,7 @@ final_data_long %>%
   guides(color = guide_legend(ncol = 2, byrow=TRUE)) +
   xlab(NULL) +
   ylab("State governments under unified control") +
-  labs(caption = "Note: Excludes Nebraska. Sources: Correlates of State Policy Project and National\nConference of State Legislatures")
+  #labs(caption = "Note: Excludes Nebraska. Sources: Correlates of State Policy Project and National\nConference of State Legislatures")
 ggsave("../paper/plots/party_control.pdf", device = cairo_pdf)
 
 

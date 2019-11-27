@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.25)  19 NOV 2019 20:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.25)  26 NOV 2019 20:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,31 +502,42 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 32.
- [1] [2] [3] [4] [5] [6] [7]
-<plots/party_control.pdf, id=35, 397.485pt x 433.62pt>
+ [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
+<plots/party_control.pdf, id=48, 505.89pt x 505.89pt>
 File: plots/party_control.pdf Graphic file (type pdf)
 <use plots/party_control.pdf>
-Package pdftex.def Info: plots/party_control.pdf  used on input line 111.
-(pdftex.def)             Requested size: 352.31625pt x 384.35909pt.
-<plots/county_support.pdf, id=36, 397.485pt x 433.62pt>
+Package pdftex.def Info: plots/party_control.pdf  used on input line 112.
+(pdftex.def)             Requested size: 352.31625pt x 352.32199pt.
+<plots/county_support.pdf, id=49, 397.485pt x 433.62pt>
 File: plots/county_support.pdf Graphic file (type pdf)
 <use plots/county_support.pdf>
-Package pdftex.def Info: plots/county_support.pdf  used on input line 117.
+Package pdftex.def Info: plots/county_support.pdf  used on input line 119.
 (pdftex.def)             Requested size: 352.31625pt x 384.35909pt.
- [8] [9 <./plots/party_control.pdf>]
-[10 <./plots/county_support.pdf>] [11] (./paper-draft.aux)
+ [12] [13 <./plots/party_control.pdf>]
+Overfull \hbox (14.09814pt too wide) in paragraph at lines 131--131
+[][]\OT1/cmr/m/n/12 . 1999. \OT1/cmr/m/it/12 Pre-emp-tive State Tobacco-Control
+ Laws -- United States, 1982-1998\OT1/cmr/m/n/12 . Tech. rep. 47(51).
+ []
+
+[14] [15]
+Overfull \hbox (29.27298pt too wide) in paragraph at lines 131--131
+\OT1/cmr/m/n/12 Gov-ern-ment De-ci-sions Through the State Courts". \OT1/cmr/m/
+it/12 Ur-ban Af-fairs Re-view \OT1/cmr/m/n/12 (): 1078087418783273.
+ []
+
+[16] [17 <./plots/county_support.pdf>] (./paper-draft.aux)
 Package logreq Info: Writing requests to 'paper-draft.run.xml'.
 \openout1 = `paper-draft.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10623 strings out of 492609
- 194725 string characters out of 6129048
- 820755 words of memory out of 5000000
- 14450 multiletter control sequences out of 15000+600000
+ 10667 strings out of 492609
+ 196830 string characters out of 6129048
+ 820893 words of memory out of 5000000
+ 14494 multiletter control sequences out of 15000+600000
  9664 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,8n,53p,2220b,1915s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,8n,53p,2199b,1915s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
@@ -537,10 +548,10 @@ cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/
 texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/t
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on paper-draft.pdf (12 pages, 174164 bytes).
+Output written on paper-draft.pdf (18 pages, 193986 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
+ 132 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

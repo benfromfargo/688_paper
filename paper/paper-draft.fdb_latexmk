@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber paper-draft"] 1574210878 "paper-draft.bcf" "paper-draft.bbl" "paper-draft" 1574211789
-  "bibliography.bib" 1574210774 42123 05e9a8cb2f18f7261a0fc662522e06ba ""
-  "paper-draft.bcf" 1574211789 132790 e62b13d1c3dc98fc8eab8299e00acc7b "pdflatex"
+["biber paper-draft"] 1574809613 "paper-draft.bcf" "paper-draft.bbl" "paper-draft" 1574816689
+  "bibliography.bib" 1574809478 55032 a5bd75fdbcf64143374749819ff6c25e ""
+  "paper-draft.bcf" 1574816688 135254 ad94de0eba147a66b04ff3d1a045507b "pdflatex"
   (generated)
   "paper-draft.bbl"
   "paper-draft.blg"
-["pdflatex"] 1574211787 "paper-draft.tex" "paper-draft.pdf" "paper-draft" 1574211789
+["pdflatex"] 1574816686 "paper-draft.tex" "paper-draft.pdf" "paper-draft" 1574816689
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -85,15 +85,15 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1566744817 4641080 fe1b79c6ead19573b2061dde83f2c777 ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1566744926 4264881 eb0ba607753bf688e96e01d48c35971a ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "paper-draft.aux" 1574211789 5127 00c21386498c3b7f8cbf5b6329ff2c15 "pdflatex"
-  "paper-draft.bbl" 1574210880 31732 230371c3f066d0bbbc5ac38a46d20bb7 "biber paper-draft"
-  "paper-draft.run.xml" 1574211789 2390 9b15c8c410a6f95ff2c4ea25c9583e4b "pdflatex"
-  "paper-draft.tex" 1574211787 14415 1d6f551709ccce54123d3738d0893707 ""
-  "plots/county_support.pdf" 1574211522 20851 969a487ee5bb94ee39cbcf31ad8ef4fe ""
-  "plots/party_control.pdf" 1574211320 19190 3f09403b92c19eb97ec686754fa6258f ""
+  "paper-draft.aux" 1574816688 9590 3f25def518ebc86abad7b90d21be1e80 "pdflatex"
+  "paper-draft.bbl" 1574809615 52985 2d5c8a96cedd93e1cfd86cca51ae4bbc "biber paper-draft"
+  "paper-draft.run.xml" 1574816688 2390 9b15c8c410a6f95ff2c4ea25c9583e4b "pdflatex"
+  "paper-draft.tex" 1574816686 24323 2f1ab36c3c562599e0ba97ac06f73f09 ""
+  "plots/county_support.pdf" 1574253861 17016 07e99eeaac8db21ec8e7224eefc6a9ba ""
+  "plots/party_control.pdf" 1574212747 15763 f6012d39b9cbd8b0e174ecd49178786a ""
   (generated)
-  "paper-draft.bcf"
-  "paper-draft.run.xml"
   "paper-draft.pdf"
   "paper-draft.aux"
+  "paper-draft.bcf"
+  "paper-draft.run.xml"
   "paper-draft.log"

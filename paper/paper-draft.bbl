@@ -95,6 +95,139 @@
       \verb /Users/Ben/Zotero/storage/JNK4T8A9/017496470.html
       \endverb
     \endentry
+    \entry{briffaultChallengeNewPreemption2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8664fad8c182859a0bbfff9b24eb9623}{%
+           family={Briffault},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{8664fad8c182859a0bbfff9b24eb9623}
+      \strng{fullhash}{8664fad8c182859a0bbfff9b24eb9623}
+      \strng{bibnamehash}{8664fad8c182859a0bbfff9b24eb9623}
+      \strng{authorbibnamehash}{8664fad8c182859a0bbfff9b24eb9623}
+      \strng{authornamehash}{8664fad8c182859a0bbfff9b24eb9623}
+      \strng{authorfullhash}{8664fad8c182859a0bbfff9b24eb9623}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The past decade has witnessed the emergence and rapid spread of a new and aggressive form of state preemption of local government action across a wide range of subjects, including among others firearms, workplace conditions, sanctuary cities, antidiscrimination laws, and environmental and public health regulation. Particularly striking are punitive measures that do not just preempt local measures but also hit local officials or governments with criminal or civil fines, state aid cutoffs, or liability for damages, as well as broad preemption proposals that would virtually end local initiative over a wide range of subjects. The rise of the new preemption is closely linked to the partisan and ideological polarization between red states and their blue cities. This Essay examines the spread of the new preemption and explores the legal doctrines available to local governments for challenging it. It argues that the more extreme preemption measures threaten the capacity for local self-government and are at odds with the values of local autonomy, the cornerstone role local governments play in our governmental structure, and the widespread state constitutional commitment to home rule. It also considers whether arguments about localism, like arguments about federalism, are really just about means to specific policy ends. It concludes that particularly in the current era of polarization, our system ought to protect some local space for self-determination for problems that arise at the local level.}
+      \field{issn}{00389765}
+      \field{journaltitle}{Stanford Law Review; Stanford}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{The {{Challenge}} of the {{New Preemption}}}
+      \field{volume}{70}
+      \field{year}{2018}
+      \field{pages}{1995\bibrangedash 2027}
+      \range{pages}{33}
+      \keyw{Cities,Local government,Preemption,Public health,Federalism,Family leave,Fines \& penalties,Firearms,Law,Legislatures,Regulation,Sick leave}
+    \endentry
+    \entry{centersfordiseasecontrolPreemptiveStateSmokeFree2005}{report}{}
+      \name{author}{1}{}{%
+        {{hash=69375b4ee3e14a067af88e1dc1a8f2ed}{%
+           family={{Centers for Disease Control}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Centers for Disease Control}%
+      }
+      \strng{namehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{fullhash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{bibnamehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{authorbibnamehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{authornamehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{authorfullhash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{number}{54(10)}
+      \field{title}{Preemptive {{State Smoke}}-{{Free Indoor Air Laws}} -- {{United States}}, 1999-2004}
+      \field{type}{techreport}
+      \field{year}{2005}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/3X9EZNI2/mm5410a4.html
+      \endverb
+    \endentry
+    \entry{centersfordiseasecontrolPreemptiveStateTobaccoControl1999}{report}{}
+      \name{author}{1}{}{%
+        {{hash=69375b4ee3e14a067af88e1dc1a8f2ed}{%
+           family={{Centers for Disease Control}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Centers for Disease Control}%
+      }
+      \strng{namehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{fullhash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{bibnamehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{authorbibnamehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{authornamehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{authorfullhash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{number}{47(51)}
+      \field{title}{Preemptive {{State Tobacco}}-{{Control Laws}} -- {{United States}}, 1982-1998}
+      \field{type}{techreport}
+      \field{year}{1999}
+      \field{pages}{1112\bibrangedash 1114}
+      \range{pages}{3}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/7MM4WJP4/00056152.html
+      \endverb
+    \endentry
+    \entry{centersfordiseasecontrolStatePreemptionLocal2010}{report}{}
+      \name{author}{1}{}{%
+        {{hash=69375b4ee3e14a067af88e1dc1a8f2ed}{%
+           family={{Centers for Disease Control}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Centers for Disease Control}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{fullhash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{bibnamehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{authorbibnamehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{authornamehash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \strng{authorfullhash}{69375b4ee3e14a067af88e1dc1a8f2ed}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{number}{59(04)}
+      \field{title}{State {{Preemption}} of {{Local Smoke}}-{{Free Laws}} in {{Government Work Sites}}, {{Private Work Sites}}, and {{Restaurants}} -- {{United States}}, 2005-2009}
+      \field{type}{techreport}
+      \field{year}{2010}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/JWVHH6BQ/mm5904a4.html
+      \endverb
+    \endentry
     \entry{dillerIntrastatePreemption2007}{article}{}
       \name{author}{1}{}{%
         {{hash=af62c980c2fbdeade6bc429911b21ea2}{%
@@ -211,6 +344,35 @@
       \verb /Users/Ben/Zotero/storage/FBD9DY76/NLC-SML Preemption Report 2017-pages.pdf
       \endverb
     \endentry
+    \entry{economicpolicyinstituteWorkerRightsPreemption2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6289f5fea81414d5216979ffbc29c995}{%
+           family={{Economic Policy Institute}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{6289f5fea81414d5216979ffbc29c995}
+      \strng{fullhash}{6289f5fea81414d5216979ffbc29c995}
+      \strng{bibnamehash}{6289f5fea81414d5216979ffbc29c995}
+      \strng{authorbibnamehash}{6289f5fea81414d5216979ffbc29c995}
+      \strng{authornamehash}{6289f5fea81414d5216979ffbc29c995}
+      \strng{authorfullhash}{6289f5fea81414d5216979ffbc29c995}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Using state laws to void local ordinances, states legislatures have been blocking local labor laws for two decades. The trend is picking up, and EPI is tracking it.}
+      \field{shorttitle}{Worker Rights Preemption in the {{U}}.{{S}}.}
+      \field{title}{Worker Rights Preemption in the {{U}}.{{S}}.: {{A}} Map of the Campaign to Suppress Worker Rights in the States}
+      \field{year}{2018}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/8NNH77TJ/preemption-map.html
+      \endverb
+    \endentry
     \entry{flavinExplainingStatePreemption2019}{article}{}
       \name{author}{2}{}{%
         {{hash=2a033e2270bdd42feb06e3a9b68b3f41}{%
@@ -296,6 +458,38 @@
       \endverb
       \verb{file}
       \verb /Users/Ben/Zotero/storage/EYLUALKT/Fowler and Witt - 2019 - State Preemption of Local Authority Explaining Pa.pdf;/Users/Ben/Zotero/storage/FHYPX4R5/5490316.html
+      \endverb
+    \endentry
+    \entry{giffordslawcenterPreemptionLocalLawsn.d.}{report}{}
+      \name{author}{1}{}{%
+        {{hash=c68d8e41d976b65a096d1cea815f692e}{%
+           family={{Giffords Law Center}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Giffords Law Center to Prevent Gun Violence}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c68d8e41d976b65a096d1cea815f692e}
+      \strng{fullhash}{c68d8e41d976b65a096d1cea815f692e}
+      \strng{bibnamehash}{c68d8e41d976b65a096d1cea815f692e}
+      \strng{authorbibnamehash}{c68d8e41d976b65a096d1cea815f692e}
+      \strng{authornamehash}{c68d8e41d976b65a096d1cea815f692e}
+      \strng{authorfullhash}{c68d8e41d976b65a096d1cea815f692e}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When it comes to gun violence, local laws serve the important purpose of addressing the unique issues and dangers facing each different community. When a higher\ldots{} Read more}
+      \field{title}{Preemption of {{Local Laws}}}
+      \field{type}{techreport}
+      \field{year}{n.d.}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/J6VIB2GU/preemption-of-local-laws.html
       \endverb
     \endentry
     \entry{goodmanStateLegislativeIdeology2019}{report}{}
@@ -488,6 +682,38 @@
       \verb /Users/Ben/Zotero/storage/YSC7CAYX/Krane et al. - 2000 - Home Rule in America A Fifty-State Handbook.PDF
       \endverb
     \endentry
+    \entry{nationalcancerinstituteStateLocalLegislative2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2cd1feffd5a7e94e8f7285492f01b34b}{%
+           family={{National Cancer Institute}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bethesda, MD}%
+      }
+      \list{publisher}{1}{%
+        {U.S. Dept. of Health and Human Services, Public Health Service, National Institutes of Health, National Cancer Institute}%
+      }
+      \strng{namehash}{2cd1feffd5a7e94e8f7285492f01b34b}
+      \strng{fullhash}{2cd1feffd5a7e94e8f7285492f01b34b}
+      \strng{bibnamehash}{2cd1feffd5a7e94e8f7285492f01b34b}
+      \strng{authorbibnamehash}{2cd1feffd5a7e94e8f7285492f01b34b}
+      \strng{authornamehash}{2cd1feffd5a7e94e8f7285492f01b34b}
+      \strng{authorfullhash}{2cd1feffd5a7e94e8f7285492f01b34b}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{{{NIH}} Publication;No. 00-4804}
+      \field{title}{State and Local Legislative Action to Reduce Tobacco Use.}
+      \field{year}{2000}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/5NLS3H3G/003508560.html
+      \endverb
+      \keyw{Government policy,Prevention,Smoking,Health Policy,legislation \& jurisprudence,Legislation \& jurisprudence,prevention \& control,Smoking cessation,Tobacco Industry,Tobacco use,Tobacco Use Disorder,Treatment,United States.}
+    \endentry
     \entry{richardsonDillonRuleMars2011}{article}{}
       \name{author}{1}{}{%
         {{hash=69ffd926849f9d4a2dc40dd5f8509cd0}{%
@@ -598,6 +824,161 @@
       \field{year}{2017}
       \verb{file}
       \verb /Users/Ben/Zotero/storage/U4ZHKPCJ/d91411_498e690d818747359db09a948ba1056d.pdf
+      \endverb
+    \endentry
+    \entry{siegelPreemptionTobaccoControl1997}{article}{}
+      \name{author}{7}{}{%
+        {{hash=0a479c9b590c14ee0b091c867bff5844}{%
+           family={Siegel},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=35ef7349e0c63c3f057d5a0b243d12c1}{%
+           family={Carol},
+           familyi={C\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=54c5c8416779f6870e3b8727c34bdec4}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={Jerie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=653f3b11ed16fef4ac79a2a28b3f05b2}{%
+           family={Hobart},
+           familyi={H\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cf36f8d4a7677f0cf35f0ca5bdcce9ad}{%
+           family={Schoenmarklin},
+           familyi={S\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c849e4c960567bc57b1e62b55c9ebd6f}{%
+           family={DuMelle},
+           familyi={D\bibinitperiod},
+           given={Fran},
+           giveni={F\bibinitperiod}}}%
+        {{hash=225a69a03c0cb6bc50a5508f48af23b2}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ba701a1ee5c43684c574562bfcd2dd3c}
+      \strng{fullhash}{082676211fbc58f6c7a86d7a74eb07e6}
+      \strng{bibnamehash}{ba701a1ee5c43684c574562bfcd2dd3c}
+      \strng{authorbibnamehash}{ba701a1ee5c43684c574562bfcd2dd3c}
+      \strng{authornamehash}{ba701a1ee5c43684c574562bfcd2dd3c}
+      \strng{authorfullhash}{082676211fbc58f6c7a86d7a74eb07e6}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{$<$}h3{$>$}Objective.{$<$}/h3{$><$}p{$>$}—{}To describe the nature, extent, and public health significance of state legislation that preempts the local regulation of tobacco.{$<$}/p{$><$}h3{$>$}Data Sources.{$<$}/h3{$><$}p{$>$}—{}computerized database of local tobacco control ordinances, state tobacco control laws, preemption bills introduced during the 1996 state legislative session, articles obtained through a MEDLINE search (1984-1996) using the key word "preemption" or identified from bidliographies of these articles, public opinion surveys, and newspaper articles.{$<$}/p{$><$}h3{$>$}Study Selection.{$<$}/h3{$><$}p{$>$}—{}All identified data sources were used.{$<$}/p{$><$}h3{$>$}Data Extraction.{$<$}/h3{$><$}p{$>$}—{}analyses of preemption bills and state laws were conducted independently by multiple observers.{$<$}/p{$><$}h3{$>$}Data Synthesis.{$<$}/h3{$><$}p{$>$}—{}There has been a striking increase in the adoption of local tobacco control ordinances during the past decade; by the end of 1995, approximately 1006 communities had enacted a local tobacco control ordinance. In response, the tobacco industry has advanced legislation in 29 states that preempts local authority to regulate tobacco. During the 1996 state legislative session alone, 26 bills containing preemption were introduced, and 2 were enacted. Emerging trends in the tobacco industry's strategy to advance preemption laws include (1) amending legitimate tobacco control bills to preempt local tobacco regulation, (2) using the Synar amendment as a vehicle to advance preemption, and (3) promoting "superpreemption" bills that eliminate all local control of tobacco policy.{$<$}/p{$><$}h3{$>$}Conclusions.{$<$}/h3{$><$}p{$>$}—{}Preemption of local tobacco regulation is an important tobacco industry strategy that undermines the public's health. Preventing the enactment of new preemption laws and repealing existing ones should become a public health priority.{$<$}/p{$>$}}
+      \field{issn}{0098-7484}
+      \field{journaltitle}{JAMA}
+      \field{month}{9}
+      \field{number}{10}
+      \field{shorttitle}{Preemption in {{Tobacco Control}}}
+      \field{title}{Preemption in {{Tobacco Control}}: {{Review}} of an {{Emerging Public Health Problem}}}
+      \field{volume}{278}
+      \field{year}{1997}
+      \field{pages}{858\bibrangedash 863}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1001/jama.1997.03550100084044
+      \endverb
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/GF569LIY/Siegel et al. - 1997 - Preemption in Tobacco Control Review of an Emergi.pdf;/Users/Ben/Zotero/storage/TLISRX6F/418143.html
+      \endverb
+    \endentry
+    \entry{skolnickCancerConvertsTobacco1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f0d2da9e56c7ba484128fea3522d867b}{%
+           family={Skolnick},
+           familyi={S\bibinitperiod},
+           given={Andrew\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f0d2da9e56c7ba484128fea3522d867b}
+      \strng{fullhash}{f0d2da9e56c7ba484128fea3522d867b}
+      \strng{bibnamehash}{f0d2da9e56c7ba484128fea3522d867b}
+      \strng{authorbibnamehash}{f0d2da9e56c7ba484128fea3522d867b}
+      \strng{authornamehash}{f0d2da9e56c7ba484128fea3522d867b}
+      \strng{authorfullhash}{f0d2da9e56c7ba484128fea3522d867b}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{$<$}p{$>$}SHAKESPEARE said it in\emph{Julius Caesar}: "The evil that men do lives after them / The good is oft interred with their bones." Oft, but not always. Sometimes someone who does what many view as wrong has both the time and inclination to make amends.{$<$}/p{$><$}p{$>$}Victor Crawford does not have much time—{}he is dying of T2, N2c squamous cell stage IV carcinoma of the base of the tongue with pulmonary and bone metastases—{}but he does have the inclination to undo much of the harm he says he believes he caused as a lobbyist for the tobacco industry.{$<$}/p{$><$}p{$>$}Crawford, an attorney and retired Maryland state legislator who lives in Rockville, Md, worked as a contractual lobbyist for the Tobacco Institute during the late 1980s. He did it for the money, he says, although it wasn't very much. He estimates that he made at least \$20 000 during the 6 years he helped{$<$}/p{$>$}}
+      \field{issn}{0098-7484}
+      \field{journaltitle}{JAMA}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shorttitle}{Cancer {{Converts Tobacco Lobbyist}}}
+      \field{title}{Cancer {{Converts Tobacco Lobbyist}}: {{Victor L}}. {{Crawford Goes On}} the {{Record}}}
+      \field{volume}{274}
+      \field{year}{1995}
+      \field{pages}{199\bibrangedash 202}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1001/jama.1995.03530030021007
+      \endverb
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/J5DYSA4M/Skolnick - 1995 - Cancer Converts Tobacco Lobbyist Victor L. Crawfo.pdf;/Users/Ben/Zotero/storage/K7CW6X8W/389212.html
+      \endverb
+    \endentry
+    \entry{swansonStateGovernmentPreemption2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f44033e82b4c50d8f3cdd989168a942e}{%
+           family={Swanson},
+           familyi={S\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3b0383df84af3161a58932c82551b4b9}{%
+           family={Barrilleaux},
+           familyi={B\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{49cbe5b1f0a07b7bb4b1e1486b6a05ff}
+      \strng{fullhash}{49cbe5b1f0a07b7bb4b1e1486b6a05ff}
+      \strng{bibnamehash}{49cbe5b1f0a07b7bb4b1e1486b6a05ff}
+      \strng{authorbibnamehash}{49cbe5b1f0a07b7bb4b1e1486b6a05ff}
+      \strng{authornamehash}{49cbe5b1f0a07b7bb4b1e1486b6a05ff}
+      \strng{authorfullhash}{49cbe5b1f0a07b7bb4b1e1486b6a05ff}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{What factors are associated with state government preemption of local government policies? This research asks whether state courts limit local authority in areas in which local preferences differ from the state's, and whether this is conditioned by the level of autonomy the state grants the local government. Using a newly constructed data set of 404 local governments that had local ordinances challenged in state courts between the years 1996 and 2017, we find that local governments with citizen ideological preferences that differ from the state are less likely to have an ordinance preempted by the courts when the level of local autonomy given by the state is high. Thus, institutions like home rule provide local governments with certain legal protections from challenges to local authority.}
+      \field{issn}{1078-0874}
+      \field{journaltitle}{Urban Affairs Review}
+      \field{month}{6}
+      \field{title}{State {{Government Preemption}} of {{Local Government Decisions Through}} the {{State Courts}}}
+      \field{year}{2018}
+      \field{pages}{1078087418783273}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/1078087418783273
+      \endverb
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/5DSYHRPB/Swanson and Barrilleaux - 2018 - State Government Preemption of Local Government De.pdf
       \endverb
     \endentry
     \entry{vonwilpertCityGovernmentsAre2017}{report}{}
