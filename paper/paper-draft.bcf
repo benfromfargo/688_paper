@@ -3033,19 +3033,24 @@
     <bcf:citekey order="60">fowlerStatePreemptionLocal2019</bcf:citekey>
     <bcf:citekey order="60">goodmanStateLegislativeIdeology2019</bcf:citekey>
     <bcf:citekey order="60">flavinExplainingStatePreemption2019</bcf:citekey>
-    <bcf:citekey order="61">mckinleyCuomoBlocksNew2017</bcf:citekey>
-    <bcf:citekey order="61">scharffHyperPreemptionReordering2018</bcf:citekey>
-    <bcf:citekey order="62">cqpressCQVotingElections2019</bcf:citekey>
-    <bcf:citekey order="63">cqpressCQVotingElections2019</bcf:citekey>
-    <bcf:citekey order="64">chenUnintentionalGerrymanderingPolitical2013</bcf:citekey>
-    <bcf:citekey order="65">dupuisCityRightsEra2018</bcf:citekey>
-    <bcf:citekey order="65">hicksHomeRuleBe2018</bcf:citekey>
-    <bcf:citekey order="66">chenUnintentionalGerrymanderingPolitical2013</bcf:citekey>
+    <bcf:citekey order="61">rapoportBlueCitiesBattle2016</bcf:citekey>
+    <bcf:citekey order="61">riverstone-newellRiseStatePreemption2017</bcf:citekey>
+    <bcf:citekey order="62">mckinleyCuomoBlocksNew2017</bcf:citekey>
+    <bcf:citekey order="62">scharffHyperPreemptionReordering2018</bcf:citekey>
+    <bcf:citekey order="63">grumbachBackwatersMajorPolicymakers2018</bcf:citekey>
+    <bcf:citekey order="64">hicksHomeRuleBe2018</bcf:citekey>
+    <bcf:citekey order="64">riverstone-newellRiseStatePreemption2017</bcf:citekey>
+    <bcf:citekey order="64">flavinExplainingStatePreemption2019</bcf:citekey>
+    <bcf:citekey order="64">fowlerStatePreemptionLocal2019</bcf:citekey>
+    <bcf:citekey order="65">cqpressCQVotingElections2019</bcf:citekey>
+    <bcf:citekey order="66">cqpressCQVotingElections2019</bcf:citekey>
     <bcf:citekey order="67">chenUnintentionalGerrymanderingPolitical2013</bcf:citekey>
-    <bcf:citekey order="68">jordanCorrelatesStatePolicy2017</bcf:citekey>
-    <bcf:citekey order="68">nationalconferenceofstatelegislaturesStatePartisanComposition2019</bcf:citekey>
+    <bcf:citekey order="68">dupuisCityRightsEra2018</bcf:citekey>
+    <bcf:citekey order="68">hicksHomeRuleBe2018</bcf:citekey>
     <bcf:citekey order="69">jordanCorrelatesStatePolicy2017</bcf:citekey>
     <bcf:citekey order="69">nationalconferenceofstatelegislaturesStatePartisanComposition2019</bcf:citekey>
+    <bcf:citekey order="70">jordanCorrelatesStatePolicy2017</bcf:citekey>
+    <bcf:citekey order="70">nationalconferenceofstatelegislaturesStatePartisanComposition2019</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

@@ -589,11 +589,52 @@
       \field{abstract}{This article discusses the influence of state legislative ideology on the legislative preemption of local ordinances in the area of worker rights. States define the powers of local governments within their purview and states may use this power to restrict local governments from pursuing certain policies. Using data on state legislative activity and ideology from 1993 to 2016, I find within-state increases in legislative ideology, indicating increased legislative conservatism, associated with an increased risk of preempting local government policy, all else equal. This finding is robust to a number of alternate specifications and hypotheses. Ideology appears to play an important role in the decision to involve the state in the affairs of local governments.}
       \field{month}{2}
       \field{shorttitle}{State {{Legislative Ideology}} \&amp; the {{Preemption}} of {{City Ordinances}}}
-      \field{title}{State {{Legislative Ideology}} \&amp; the {{Preemption}} of {{City Ordinances}}: {{The Case}} of {{Worker Rights Laws}}}
+      \field{title}{State {{Legislative Ideology}} \& the {{Preemption}} of {{City Ordinances}}: {{The Case}} of {{Worker Rights Laws}}}
       \field{type}{Preprint}
       \field{year}{2019}
       \verb{doi}
       \verb 10.31235/osf.io/2mnws
+      \endverb
+    \endentry
+    \entry{grumbachBackwatersMajorPolicymakers2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=af1bb6a2c1a0ee4e467fd98b8b96f08f}{%
+           family={Grumbach},
+           familyi={G\bibinitperiod},
+           given={Jacob\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{af1bb6a2c1a0ee4e467fd98b8b96f08f}
+      \strng{fullhash}{af1bb6a2c1a0ee4e467fd98b8b96f08f}
+      \strng{bibnamehash}{af1bb6a2c1a0ee4e467fd98b8b96f08f}
+      \strng{authorbibnamehash}{af1bb6a2c1a0ee4e467fd98b8b96f08f}
+      \strng{authornamehash}{af1bb6a2c1a0ee4e467fd98b8b96f08f}
+      \strng{authorfullhash}{af1bb6a2c1a0ee4e467fd98b8b96f08f}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Political scientists often characterize state and local governments as marginal and highly constrained in policymaking. However, I suggest that in recent decades state governments have moved from the margins to the center of partisan battles over the direction of U.S. public policy. Across 16 issue areas, I investigate interstate policy variation, policy differences across states, and policy polarization, the changing relationship between party control of state government and policy outcomes. Since the 1970s, interstate variation has increased such that an individual's tax burden, right to obtain an abortion, and other relationships to government are increasingly determined by her state of residence. Policy polarization increases dramatically after 2000 in 14 of the 16 areas. I show that party control increasingly predicts socioeconomic outcomes in the polarized area of health care, but not in the nonpolarized area of criminal justice.}
+      \field{issn}{1537-5927, 1541-0986}
+      \field{journaltitle}{Perspectives on Politics}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shorttitle}{From {{Backwaters}} to {{Major Policymakers}}}
+      \field{title}{From {{Backwaters}} to {{Major Policymakers}}: {{Policy Polarization}} in the {{States}}, 1970–{}2014}
+      \field{volume}{16}
+      \field{year}{2018}
+      \field{pages}{416\bibrangedash 435}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1017/S153759271700425X
+      \endverb
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/28YCAUZ3/Grumbach - 2018 - From Backwaters to Major Policymakers Policy Pola.pdf;/Users/Ben/Zotero/storage/D6YFZMYD/51DD7B022E358A99333447A6E2BA7B63.html
       \endverb
     \endentry
     \entry{hicksHomeRuleBe2018}{article}{}
@@ -795,7 +836,7 @@
            giveni={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {The New York Times}%
+        {New York, NY}%
       }
       \strng{namehash}{4daa5edad588a15198ac5c405551dc12}
       \strng{fullhash}{4daa5edad588a15198ac5c405551dc12}
@@ -809,6 +850,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{The New York Times}
       \field{month}{2}
       \field{title}{Cuomo {{Blocks New York City Plastic Bag Law}}}
       \field{year}{2017}
@@ -871,6 +913,38 @@
       \field{year}{2019}
       \verb{file}
       \verb /Users/Ben/Zotero/storage/EDXNRCWH/partisan-composition.html
+      \endverb
+    \endentry
+    \entry{rapoportBlueCitiesBattle2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ea31d71cc6cfcd8407fffdd61382a671}{%
+           family={Rapoport},
+           familyi={R\bibinitperiod},
+           given={Abby},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-us}%
+      }
+      \strng{namehash}{ea31d71cc6cfcd8407fffdd61382a671}
+      \strng{fullhash}{ea31d71cc6cfcd8407fffdd61382a671}
+      \strng{bibnamehash}{ea31d71cc6cfcd8407fffdd61382a671}
+      \strng{authorbibnamehash}{ea31d71cc6cfcd8407fffdd61382a671}
+      \strng{authornamehash}{ea31d71cc6cfcd8407fffdd61382a671}
+      \strng{authorfullhash}{ea31d71cc6cfcd8407fffdd61382a671}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As cities have moved left and states have moved right, the conflicts between them have escalated.}
+      \field{journaltitle}{The American Prospect}
+      \field{month}{8}
+      \field{title}{Blue {{Cities Battle Red States}}}
+      \field{year}{2016}
+      \verb{file}
+      \verb /Users/Ben/Zotero/storage/8G53NL9K/blue-cities-battle-red-states.html
       \endverb
     \endentry
     \entry{richardsonDillonRuleMars2011}{article}{}
